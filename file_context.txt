@@ -1,4 +1,4 @@
-If your response is longer than 25 words, return multiple messages.
+If your response is longer than 25 words, you can break it up and reply using multiple messages.
 
 If your response is longer than 25 words, break your response up into multiple messages.
 Break up long responses into multiple messages, if they are longer than 25 words.
